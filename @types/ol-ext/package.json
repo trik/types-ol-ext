@@ -1,0 +1,25 @@
+{
+  "name": "@types/ol-ext",
+  "version": "0.0.1",
+  "description": "Type definitions for ol-ext",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siedlerchr/types-ol-ext.git"
+  },
+  "keywords": [
+    "openlayers",
+    "ol-ext",
+    "typescript",
+    "declaration"
+  ],
+  "author": "Siedlerchr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Siedlerchr/types-ol-ext/issues"
+  },
+  "homepage": "https://github.com/Siedlerchr/types-ol-ext#readme",
+  "dependencies": {
+    "@types/ol": "^6.3.1"
+  }
+}
